@@ -1,0 +1,15 @@
+Hello Judges,
+I am Aditya M, Mission 2 qualifier for Change Makers World Cup.
+This is a text file containing the structure of the folder:-
+posters/ -> Contains the posters put up in the canteen
+agreed_to_continue/ -> Contains the videos from people who have the right to ensure my changes remain and continue and my amendments are not removed
+interviews_with_student/ -> Contains the videos of interviews with student(s) who like Sip-Ups and Samosa
+after/ -> Contains the images of the canteen after the change(s)
+before/ -> Contains the images of the canteen before the change(s)
+
+My details:-
+ID: 26CWCA3412
+Name: Aditya M
+School: Sharada Vidyalaya
+Track: Eat Real #FixYourPlate
+Location: Mangaluru, Karnataka
